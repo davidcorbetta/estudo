@@ -1,6 +1,5 @@
 #!/bin/bash
 # Para ficar mais rápido, faz a configuração do GIT, e ja ajusta o SSL.
-cd ..
 echo "Informe seu user do github:"
 read user;
 echo "Informe seu e-mail do github "
